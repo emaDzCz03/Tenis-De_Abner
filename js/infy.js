@@ -1,1 +1,1 @@
-//pinches tonotos
+console.log("viva peso deidad");//pinches tonotos
